@@ -1,0 +1,41 @@
+{
+  "ProjectName": "4-Bit MP",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2023-03-16T23:38:11.0583851+05:00",
+  "AllCreatedChips": [
+    "NAND",
+    "OR",
+    "XOR",
+    "3-AND",
+    "2;4 Decoder",
+    "4;16 Decoder",
+    "3_NAND",
+    "D Flip-Flop PR-R",
+    "PC",
+    "1-Bit Adder",
+    "4-Bit FA"
+  ],
+  "StarredChips": [
+    "AND",
+    "NOT",
+    "NAND",
+    "OR",
+    "XOR",
+    "TRI-STATE BUFFER",
+    "3-AND",
+    "2;4 Decoder",
+    "4;16 Decoder",
+    "3_NAND",
+    "D Flip-Flop PR-R",
+    "BUS",
+    "PC",
+    "1-Bit Adder",
+    "4-Bit FA",
+    "CLOCK"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 0,
+    "SubChipPinNameDisplayMode": 0,
+    "ShowCursorGuide": 0
+  }
+}
